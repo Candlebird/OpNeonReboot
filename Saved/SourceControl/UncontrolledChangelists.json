@@ -47,7 +47,9 @@
 				"D:/OPNeonReboot/Content/EnemyAssets/S1Ens/CrabBot/BCrab_BP.uasset",
 				"D:/OPNeonReboot/Content/EnemyAssets/S1Ens/CrabBot/BCrabEnum.uasset",
 				"D:/OPNeonReboot/Content/EnemyAssets/S1Ens/CrabBot/CrabBotAssets/BombCrab_Anim_CrabArmature_BombCrab_StartBomb.uasset",
-				"D:/OPNeonReboot/Content/VirtualRealityBP/Blueprints/EnemyNameEnum.uasset"
+				"D:/OPNeonReboot/Content/VirtualRealityBP/Blueprints/EnemyNameEnum.uasset",
+				"D:/OPNeonReboot/Content/VirtualRealityBP/Blueprints/MenusAndWidgets/EndOfRoundWidget.uasset",
+				"D:/OPNeonReboot/Content/EnemyAssets/S1Ens/Miniboss_Crab/MBCBot_Pawn_2.uasset"
 			]
 		}
 	]
